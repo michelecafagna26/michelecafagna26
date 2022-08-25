@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi!👋 I'm Michele.
+I'm a Marie Curie  🌱 PhD Fellow @UniversityOfMalta former 🤖 Machine Learning Research Scientist @Aptus.AI.
+
+🔭 I'm interested in Vision & Language,  XAI, NLP, NLG and Computer Vison.
+
+Checkout [my personal webpage](https://michelecafagna26.github.io) for more about me✨
+
 
 <!--
 **michelecafagna26/michelecafagna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
