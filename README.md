@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Michele.
 I'm a Marie Curie  🌱 PhD Fellow @UniversityOfMalta former 🤖 Machine Learning Research Scientist @Aptus.AI.
 
-🔭 I'm interested in Vision & Language,  XAI, NLP, NLG and Computer Vison.
+🔭 I'm interested in Vision & Language,  XAI, NLP, NLG, and Computer Vision.
 
 Checkout [my personal webpage](https://michelecafagna26.github.io) for more about me✨
 
