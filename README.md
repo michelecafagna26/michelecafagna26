@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Michele.
+### 👋 Hi! I'm Michele [miˈkɛːle].
 I'm a Marie Curie  🌱 PhD Fellow @UniversityOfMalta former 🤖 Machine Learning Research Scientist @Aptus.AI.
 
 🔭 I'm interested in Vision & Language,  XAI, NLP, NLG, and Computer Vision.
