@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Michele.
-I'm Senior AI Research Engineer at Envision Pharma Group. I hold PhD (Marie Curie Fellow) in AI where I focused on VLMs and XAI and former 🤖 Machine Learning Research Scientist @Aptus.AI.
+I'm Senior AI Research Engineer at Envision Pharma Group. I hold PhD (Marie Curie Fellow) in AI where I focused on VLMs and XAI. I was former 🤖 Machine Learning Research Scientist @Aptus.AI.
 
 🔭 I'm interested in Vision & Language,  XAI, NLP, NLG, and Computer Vision, training/inference, quantization and complex AI engineering systems.
 
