@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Michele.
-I'm a Marie Curie  🌱 PhD Fellow @UniversityOfMalta former 🤖 Machine Learning Research Scientist @Aptus.AI.
+I'm Senior AI Research Engineer at Envision Pharma Group. I hold PhD (Marie Curie Fellow) in VLM and XAI and former 🤖 Machine Learning Research Scientist @Aptus.AI.
 
-🔭 I'm interested in Vision & Language,  XAI, NLP, NLG, and Computer Vision.
+🔭 I'm interested in Vision & Language,  XAI, NLP, NLG, and Computer Vision, training/inference, quantization and complex AI engineering systems.
 
 Checkout [my personal webpage](https://michelecafagna26.github.io) for more.✨
 
